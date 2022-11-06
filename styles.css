@@ -1,0 +1,47 @@
+h2{
+    color: crimson;
+}
+body{
+    background-color: aqua;
+}
+div{
+    background-color: burlywood;
+    text-align:center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: blueviolet;
+    border: 10px solid blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    padding: 50px;
+    text-transform: uppercase;
+    text-decoration: line-through;
+}
+#id1{
+    color: blue;
+}
+.class1{
+    color: bisque;
+}
+
+.container {
+    display: inline-flex;
+    flex-direction: column-reverse;
+    background-color: rgb(220, 165, 165);
+    padding: 10px;
+    }
+   
+    .item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px dashed rgba(63, 187, 200, 0.8);
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    }
+ul{
+    list-style-type:square;
+
+}
